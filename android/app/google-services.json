@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751554511871",
+    "project_id": "sih-project-a9fb4",
+    "storage_bucket": "sih-project-a9fb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751554511871:android:229b8b754da60158e85dca",
+        "android_client_info": {
+          "package_name": "com.example.speech_converter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVkARV7Y6m5eCQ3B0DbMO_vsHKCWz9ovI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
